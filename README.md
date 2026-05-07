@@ -2,7 +2,7 @@
 
 Онлайн-генератор счёта на оплату для ИП, ООО и самозанятых. Self-contained HTML-файл, работает офлайн после первой загрузки.
 
-**Демо:** https://example.github.io/invoice/
+**Демо:** https://stepanovynwa.github.io/
 
 ## Что умеет
 
